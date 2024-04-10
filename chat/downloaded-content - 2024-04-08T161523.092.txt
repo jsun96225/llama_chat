@@ -1,0 +1,10 @@
+user: 请问，未来5年accounting, auditing, finance,   容易找工作吗
+
+me: um...如果GPT不对这个领域重点下手的话，可能还可以，不过也有危险
+
+user: Healthcare领域如何
+
+me: 其实还可以哈
+
+user: 谢谢
+

@@ -1,0 +1,24 @@
+user: 你好
+
+me: 你好
+
+user: 你好，有微信群吗
+
+user: 进群
+
+user: 己转发
+
+user: 相亲群？有吗
+
+user: 你好，老师，领英帐号发给一个
+
+user: 我让孩子找你
+
+user: 谢谢
+
+me: 哈哈哈，感谢
+
+me: Gary Xie，他linkedin找我很容易的
+
+me: 相亲群当天我们直播起群
+

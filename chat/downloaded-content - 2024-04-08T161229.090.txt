@@ -1,0 +1,14 @@
+user: 您好
+
+me: 您好
+
+user: Gary 您是猎头吗？
+
+me: 是的哈您可以google 猎头Gary Xie
+
+me: 但是猎头主要是帮公司找高管
+
+user: 我的孩子学AI 明年博士毕业
+
+me: 孩子还是很优秀的！
+
